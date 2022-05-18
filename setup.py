@@ -5,7 +5,7 @@ VERSION = '0.3.5'
 install_requires = [
     "arrow",
     "cassandra-driver",
-    "cassandra-migrate",
+    #"cassandra-migrate",
     "click",
     "future",
     "geomet",
